@@ -37,7 +37,6 @@ Bu az-maz çətindir, amma Compar Academy Sizə Güvənir! :)</li>
 </ul>
 </li>
 <li>
-<p>C# Windows Form tapşırığı</p>
 <ul>
 <li>Aşağıdakı linklərdən SqlClient namespace-də olan əsas class-lara baxın.
 <ul>
